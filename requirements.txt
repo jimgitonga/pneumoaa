@@ -5,4 +5,3 @@ torchvision==0.2.1
 numpy==1.16.4
 Pillow==6.2.0
 gunicorn==19.9.0
-collections== 3.3
